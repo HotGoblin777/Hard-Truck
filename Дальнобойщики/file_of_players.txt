@@ -1,0 +1,1 @@
+{"Name": "Json", "Country": "USA", "Money": 24627, "Skill": 0, "Workers": [""], "Car": [0, 1], "Town": 1}
